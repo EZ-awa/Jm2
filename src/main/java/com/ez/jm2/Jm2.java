@@ -21,7 +21,7 @@ public class Jm2 {
 
     @Mod.EventHandler
     public void postInit(FMLPreInitializationEvent event){
-        System.out.println(NAME + " finished loading!");
+        System.out.println(NAME + " 爆炸辣!");
     }
 
 }
