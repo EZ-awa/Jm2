@@ -1,0 +1,16 @@
+[
+{
+  "modid": "jm2",
+  "name": "Jm2",
+  "description": "fuck",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["ExampleDude"],
+  "credits": "The Forge and FML guys, for making this example",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
