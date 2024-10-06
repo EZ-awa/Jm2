@@ -23,5 +23,6 @@ public class Jm2 {
     public void postInit(FMLPreInitializationEvent event){
         System.out.println(NAME + " 爆炸辣!");
     }
+    //oioioi
 
 }
